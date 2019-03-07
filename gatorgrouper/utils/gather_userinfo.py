@@ -1,1 +1,0 @@
-""" Gather user information """
